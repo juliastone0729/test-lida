@@ -14,7 +14,7 @@ permalink: /about.html
 
 The LIDA Project is part of PSU's ReImagine Initiative. ReImagine PSU is an intentional effort by the provost to provide space and resources to groups of faculty and staff to collaborate and design mechanisms addressing challenges and opportunities facing the university. 
 
-{% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Portland_state_university_sign.jpg/1200px-Portland_state_university_sign.jpg?20160310231426)" width="75" alt="Portland State University campus sign" %}
+{% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Portland_state_university_sign.jpg/1200px-Portland_state_university_sign.jpg?20160310231426)" width="50" alt="Portland State University campus sign" %}
 
 ### ReImagining Linguistic Diversity and Discrimination Awareness
 
