@@ -8,20 +8,18 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://lh4.googleusercontent.com/1dyXCzvIJvEWYQ32HK-OfvH38PSiF3n9GUgFgr2p01jB79UzX0Nlmj9I5HlnD_8F0_EegJuJ6oLw3YnQo8YXwJjI2vXdXU36X0zcbuLu-kpliscFajVRVl91D1B_1Z6w=w1280" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+## About the LIDA Project
 
-## About the Collection
+The LIDA Project is part of PSU's ReImagine Initiative. ReImagine PSU is an intentional effort by the provost to provide space and resources to groups of faculty and staff to collaborate and design mechanisms addressing challenges and opportunities facing the university. 
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+### ReImagining Linguistic Diversity and Discrimination Awareness
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+As the Portland State community becomes more diverse in terms of linguistic and social backgrounds, it is essential that issues of linguistic bias and linguistic discrimination be acknowledged and addressed. Our goal is to raise awareness of the issue of linguistic bias and the richness of linguistic diversity on campus. 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+By understanding what attitudes, preferences, and biases are held about linguistic diversity by the PSU community members, we hope to support speakers of all languages and dialects by better understanding and responding to this issue. Ultimately, we hope to educate all community members about linguistic diversity and the biases that come with it to better encourage change toward a more supportive community for everyone.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Find out about our weekly meetings and projects by joining our Google Group!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/button.html text="Join Google Group" link="https://groups.google.com/a/pdx.edu/g/proj-lingdiversity-group/about?hl=en)" target="_blank" color="success" %}
