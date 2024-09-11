@@ -1,0 +1,5 @@
+objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+lida_001,https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1092&context=ling_fac,,,Teachers’ Voices on Multimodal Input for second or foreign language learning,Mónica Stella Cárdenas-Claros; Tetyana Sydorenko; Elizabeth Huntley; Maribel Montero Perez,2023,Example of a metadata record item that points to an article in PDXScholar,Multimodal input; Second language learning,,,,,,Text,record,eng,,
+lida_002,,HOY_-QN7_To,,Preserving the World's Linguistic Diversity,Ivan Ozbolt,2024,Example YouTube video,Linguistic diversity,,,,,,MovingImage,video/mp4,eng,,
+lida_003,demo_003.mp3,,,Example Audio Item,Frank Robinson,2022,Example locally hosted audio item. A short excerpt from a radio program episode.,Linguistic diversity,,,,,,Audio,audio/mp3,eng,,
+lida_004,demo_002.pdf,,,Example PDF Item,Julia Stone,2022,Example of locally hosted pdf item,Linguistic diversity,,,,,,Text,application/pdf,eng,,
