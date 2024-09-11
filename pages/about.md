@@ -8,11 +8,13 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://lh4.googleusercontent.com/1dyXCzvIJvEWYQ32HK-OfvH38PSiF3n9GUgFgr2p01jB79UzX0Nlmj9I5HlnD_8F0_EegJuJ6oLw3YnQo8YXwJjI2vXdXU36X0zcbuLu-kpliscFajVRVl91D1B_1Z6w=w1280" %}
+{% include feature/jumbotron.html objectid="https://images.pexels.com/photos/7130535/pexels-photo-7130535.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" %}
 
 ## About the LIDA Project
 
 The LIDA Project is part of PSU's ReImagine Initiative. ReImagine PSU is an intentional effort by the provost to provide space and resources to groups of faculty and staff to collaborate and design mechanisms addressing challenges and opportunities facing the university. 
+
+{% include feature/image.html objectid="https://lh4.googleusercontent.com/1dyXCzvIJvEWYQ32HK-OfvH38PSiF3n9GUgFgr2p01jB79UzX0Nlmj9I5HlnD_8F0_EegJuJ6oLw3YnQo8YXwJjI2vXdXU36X0zcbuLu-kpliscFajVRVl91D1B_1Z6w=w1280)" width="75" alt="Portland State University campus sign" %}
 
 ### ReImagining Linguistic Diversity and Discrimination Awareness
 
